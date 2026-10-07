@@ -5,7 +5,7 @@ Signal Processing, Communication, VLSI, RF/Microwave, Image Processing, and IoT.
 
 ## M.Tech Projects
 
-- [Adaptive Echo Cancellation](./MTech-Projects/Adaptive-Echo-Cancellation/Echo-Cancellation-Report.pdf)
+- [Adaptive Echo Cancellation](./MTech-Projects/Adaptive-Echo-Cancellation/Echo_CancellationConference_Report.pdf)
   - Domain: Digital Signal Processing / Adaptive Filtering
 
 - [Medical Image Edge Detection](./MTech-Projects/Medical-Image-Edge-Detection/Edge-Detection-Report.pdf)
