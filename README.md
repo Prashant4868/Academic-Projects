@@ -5,16 +5,14 @@ Signal Processing, Communication, VLSI, RF/Microwave, Image Processing, and IoT.
 
 ## M.Tech Projects
 
-- [Adaptive Echo Cancellation](./MTech-Projects/Adaptive-Echo-Cancellation/Echo_CancellationConference_Report.pdf)
-  - Domain: Digital Signal Processing / Adaptive Filtering
+- [Adaptive Echo Cancellation](./Echo_CancellationConference_Report.pdf)
+  - Digital Signal Processing / Adaptive Filtering
 
-- [Medical Image Edge Detection](./MTech-Projects/Medical-Image-Edge-Detection/Edge-Detection-Report.pdf)
-  - Domain: Digital Image Processing
+- [Medical Image Edge Detection](./Mini_Project_2025EEM1004_Edge_Detection.pdf)
+  - Digital Image Processing
 
-- [Low-Voltage Low-Power Double-Tail Comparator](./MTech-Projects/Double-Tail-Comparator/Comparator-Report.pdf)
-  - Domain: Mixed-Signal VLSI
+- [Mixed-Signal Project](./Mixed%20Signal%20Project%20Report.pdf)
+  - Mixed-Signal VLSI
 
-## B.Tech Projects
-
-- [IoT-Based Smart Air Quality Monitoring](./BTech-Projects/IoT-Air-Quality/IoT-Project-Report.pdf)
-  - Domain: IoT / Embedded Systems
+- [Digital Communication Project](./2025EEM1004_DLCV_Reports.pdf)
+  - Digital Communication
