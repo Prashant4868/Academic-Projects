@@ -16,3 +16,8 @@ Signal Processing, Communication, VLSI, RF/Microwave, Image Processing, and IoT.
 
 - [Digital Communication Project](./2025EEM1004_DLCV_Reports.pdf)
   - Digital Communication
+ 
+## B.Tech Projects
+
+- [IoT-Based Smart Air Quality Monitoring and Purification using PLants](./Final_ReportG5.pdf)
+  - Domain: IoT / Embedded Systems
