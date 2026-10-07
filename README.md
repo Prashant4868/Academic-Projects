@@ -21,3 +21,12 @@ Signal Processing, Communication, VLSI, RF/Microwave, Image Processing, and IoT.
 
 - [IoT-Based Smart Air Quality Monitoring and Purification System using PLants](./Final_ReportG5.pdf)
   - Domain: IoT / Embedded Systems
+
+- [Audio Responsive LED Syatem](./Audio_responsive_led_system.pdf)
+  - Domain: IoT / Embedded Systems
+ 
+- [Hand Gesture Recognition](./Hand%20Gesture%20Recognition.pdf)
+  - Domain: Signal and Systems
+
+- [CMOS XNOR Gate Design using Microwind](./CMOS%20Xnor%20gate%20design.pdf)
+  - Domain: IoT / Embedded Systems
