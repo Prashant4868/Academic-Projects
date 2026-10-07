@@ -6,7 +6,7 @@ Signal Processing, Communication, VLSI, RF/Microwave, Image Processing, and IoT.
 ## M.Tech Projects
 
 - [Adaptive Echo Cancellation of Audio Signals Using Adaptive Filters](./Echo_CancellationConference_Report.pdf)
-  - Digital Signal Processing / Adaptive Filtering
+  - Digital Communication / Adaptive Filtering
 
 - [Edge Detection on Medical Images (X-ray / MRI)](./Mini_Project_2025EEM1004_Edge_Detection.pdf)
   - Digital Image Processing
@@ -15,7 +15,7 @@ Signal Processing, Communication, VLSI, RF/Microwave, Image Processing, and IoT.
   - Mixed-Signal VLSI
 
 - [Design Next-Generation Image Retrieval System](./2025EEM1004_DLCV_Reports.pdf)
-  - Digital Communication
+  - Deep Learning for Computer Vision
  
 ## B.Tech Projects
 
